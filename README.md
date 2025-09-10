@@ -18,7 +18,7 @@ Clients can search for skilled workers (like electricians, teachers, mechanics, 
 ## 🛠 Tech Stack
 - **Frontend:** HTML, CSS, JavaScript (with Bootstrap for styling)
 - **Backend:** Flask (Python)
-- **Database:** MongoDB
+- **Database:** MySql
 - **Templates:** Jinja2
 
 ---
